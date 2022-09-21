@@ -1,4 +1,6 @@
 Soy nueva funcionalidad, nueva rama
 
 html
+header
+footer
 body
